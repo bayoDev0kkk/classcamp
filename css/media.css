@@ -1,0 +1,676 @@
+@media (max-width: 1440px){
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px){ }
+@media (max-width: 1024px){
+    .nav-link {
+        margin-right: 0;
+    }
+    .space-img img {
+        width: 400px;
+    }
+    .space-img1 img {
+        width: 240px;
+    }
+    .space-title p {
+        font-size: 23px;
+    }
+    .space-title h2 {
+        font-size: 44px;
+        margin-bottom: 48px;
+        margin-top: 150px;
+    }
+    .step-img img {
+        width: 400px;
+    }
+    .step-img2 img {
+        width: 400px;
+    }
+    .step-title h2 {
+        font-size: 46px;
+    }
+    .step-title p {
+        font-size: 24px;
+    }
+    .elements-img img {
+        width: 400px;
+    }
+    .elements-title h2 {
+        font-size: 42px;
+    }
+    .elements-title p {
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .link-title h2 {
+        font-size: 39px;
+        width: 300px;
+    }
+    .link-title {
+        left: 195px;
+    }
+
+
+    .link-title p {
+        font-size: 17px;
+        line-height: 33px;
+    }
+
+    .swiper-wrapper{
+        width: 170px;
+        right: 300px;
+    }
+    .coach h2 {
+        font-size: 37px;
+        line-height: 50px;
+    }
+    .coach p {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .slider-prev {
+        margin-left: 345px;
+        margin-right: 81px;
+    }
+    .offer h2 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .offer p {
+        font-size: 22px;
+        line-height: 31px;
+    }
+    .offer img {
+        width: 600px;
+    }
+    .teach {
+        height: 392px;
+        width: 920px;
+    }
+    .teach h2 {
+        font-size: 49px;
+        line-height: 34px;
+    }
+    .teach p {
+        font-size: 22px;
+    }
+    .create h2 {
+        font-size: 36px;
+    }
+    #courses h2 {
+        font-size: 37px;
+    }
+    .courses-block {
+        height: 350px;
+        width: 327px;
+    }
+    .courses-title-gen1 img {
+        height: 360px;
+        width: 180px;
+    }
+    .courses-title-gen p {
+        padding-top: 12px;
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    .courses-title-gen1 h4 {
+        font-size: 13px;
+    }
+    .courses-icon {
+        left: -52px;
+        font-size: 14px;
+    }
+    .courses-title-gen1 p {
+        font-size: 11px;
+        bottom: 24px;
+    }
+    .courses-title-gen h3 {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 22px;
+        margin-bottom: 11px;
+    }
+
+    .courses-title-gen button {
+        font-size: 14px;
+        padding: 1px 30px;
+    }
+    .courses-title-gen p span {
+        font-size: 7px;
+        line-height: 0;
+    }
+    .course-btn {
+        margin-left: 135px;
+        font-size: 22px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width: 992px){
+    .hero h1 {
+        margin-bottom: 21px;
+        font-size: 46px;
+    }
+    .hero h3 {
+        margin-bottom: 36px;
+        font-size: 20px;
+    }
+    .hero button {
+        width: 220px;
+        height: 47px;
+        margin-bottom: 26px;
+        font-size: 18px;
+    }
+    .hero-img img {
+        width: 700px;
+    }
+    .hero-img1 img {
+        width: 220px;
+    }
+    .hero-img1{
+        left: 530px;
+    }
+}
+@media (max-width: 768px){
+    .nav-link{
+        display: none;
+    }
+    .nav-btn{
+        display: none;
+    }
+    .navbar {
+        justify-content: start;
+        padding-top: 10px;
+    }
+    .hamburger-menu{
+        display: block;
+    }
+    .hero-img img {
+        width: 600px;
+    }
+    .hero-img1 img {
+        width: 180px;
+    }
+    .hero-img1{
+        left: 420px;
+    }
+    .space-img img {
+        width: 300px;
+        height: 300px;
+    }
+    .space-img1 img {
+        width: 200px;
+        height: 300px;
+    }
+    .space-img1 {
+        top: 99px;
+    }
+    .space-img {
+        left: -76px;
+    }
+    .space-title h2 {
+        font-size: 30px;
+        margin-bottom: 41px;
+        margin-top: 196px;
+    }
+    .space-title p {
+        font-size: 19px;
+    }
+    .step-img img {
+        width: 336px;
+    }
+    .step-img2 img {
+        width: 333px;
+    }
+    .step-title h2 {
+        font-size: 28px;
+    }
+    .step-title p {
+        font-size: 15px;
+    }
+    .elements-img img {
+        width: 307px;
+    }
+    .elements-title h2 {
+        font-size: 29px;
+    }
+    .elements-title p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .link-title h2 {
+        font-size: 22px;
+        width: 200px;
+        margin-bottom: 0;
+    }
+    .link-title p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .swiper-wrapper {
+        width: 84px;
+        right: 170px;
+        top: 2px;
+        height: 82%;
+    }
+    .slider-prev {
+        margin-left: 234px;
+        margin-right: 81px;
+    }
+    .offer h5 {
+        font-size: 16px;
+        line-height: 0;
+    }
+    .offer h2 {
+        font-size: 29px;
+        line-height: 32px;
+    }
+    .offer p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .teach {
+        height: 327px;
+        width: 691px;
+    }
+    .teach h2 {
+        font-size: 33px;
+        line-height: 0;
+    }
+    .teach p {
+        font-size: 15px;
+    }
+    .teach button {
+        width: 233px;
+        height: 49px;
+        font-size: 16px;
+    }
+    .arrow {
+        font-size: 34px;
+        top: 46px;
+        right: -68px;
+    }
+    .create h2 {
+        font-size: 29px;
+    }
+    .create p {
+        font-size: 17px;
+        line-height: 9px;
+    }
+    #courses h2 {
+        font-size: 29px;
+    }
+    .courses {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .courses-title-gen h3 {
+        font-size: 16px;
+        line-height: 20px;
+        margin-left: 130px;
+    }
+    .courses-title-gen p {
+        padding-top: 11px;
+        font-size: 11px;
+        margin-right: 10px;
+        padding-left: 131px;
+    }
+   .courses-block {
+       margin: 20px 0;
+   }
+   #courses{
+       height: 100%;
+   }
+   .footer img {
+       width: 100px;
+
+   }
+    .footer-list h3 {
+        font-size: 11px;
+        line-height: 0;
+        padding-top: 127px;
+        padding-bottom: 30px;
+    }
+    .footer-list a {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    #footer{
+        height: 100%;
+        padding-bottom: 50px;
+    }
+
+}
+@media (max-width: 576px){
+    .hero h1 {
+        margin-bottom: 17px;
+        font-size: 29px;
+    }
+    .hero h3 {
+        font-size: 14px;
+    }
+    .hero-img img {
+        width: 439px;
+    }
+    .hero-img1 img {
+        width: 140px;
+        height: 264px;
+    }
+    .hero-img1 {
+        left: 300px;
+    }
+    .space {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .step {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .step-block{
+        margin: 20px 0;
+    }
+    .elements {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .elements-title{
+        margin: 30px 0;
+    }
+    .link-title {
+        bottom: -50px;
+        left: 20px;
+    }
+    .swiper-wrapper {
+        width: 115px;
+        right: 2px;
+        top: -6px;
+        height: 100%;
+    }
+    #coach {
+        padding-top: 100px;
+    }
+    .coach p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .coach h2 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .slider-prev {
+        margin-left: 147px;
+    }
+    .offer img {
+        width: 435px;
+    }
+    .offer p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .offer h2 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .offer h5 {
+        font-size: 12px;
+    }
+    .teach {
+        height: 291px;
+        width: 519px;
+    }
+    .teach h2 {
+        font-size: 26px;
+    }
+    .teach p {
+        font-size: 13px;
+    }
+    .teach button {
+        width: 212px;
+        font-size: 14px;
+    }
+    .create h2 {
+        line-height: 1;
+        font-size: 22px;
+    }
+    .footer-icon1 {
+        font-size: 12px;
+        padding: 0 4px;
+        margin-bottom: 40px;
+    }
+    .footer-list h3 {
+        font-size: 9px;
+        padding-top: 51px;
+        padding-bottom: 20px;
+    }
+    .footer-list a {
+        font-size: 9px;
+        line-height: 17px;
+    }
+    .footer img {
+        width: 100px;
+        padding-bottom: 40px;
+    }
+    .footer-list:nth-child(3){
+        padding-bottom: 22px;
+    }
+
+
+
+
+
+
+}
+@media (max-width: 451px) {
+    .space-img1 {
+        top: 90px;
+        right: -30px;
+    }
+
+    .space-img1 img {
+        width: 186px;
+        height: 274px;
+    }
+
+    .space-block {
+        left: 15px;
+    }
+
+    .slider-prev {
+        margin-left: 89px;
+    }
+
+    .offer p {
+        font-size: 10px;
+    }
+
+    .teach h2 {
+        padding-top: 47px;
+        font-size: 23px;
+    }
+
+    .teach {
+        height: 253px;
+        width: 405px;
+    }
+
+    .teach p {
+        font-size: 11px;
+    }
+
+    .teach button {
+        width: 187px;
+        font-size: 13px;
+        padding-left: 20px;
+    }
+
+    .arrow {
+        font-size: 33px;
+        right: -54px;
+    }
+
+    .courses-title-gen1 img {
+        height: 291px;
+        width: 137px;
+        left: -23px;
+    }
+
+    .courses-block {
+        height: 276px;
+        width: 308px;
+    }
+
+    .courses-title-gen1 h4 {
+        font-size: 13px;
+        bottom: 46px;
+        left: -18px;
+    }
+
+    .courses-title-gen1 p {
+        bottom: 25px;
+        font-size: 11px;
+        left: 12px;
+    }
+
+    .courses-icon {
+        left: -15px;
+    }
+
+    .courses-title-gen p {
+        padding-top: 11px;
+        font-size: 10px;
+        margin-right: 10px;
+        padding-left: 131px;
+    }
+
+    .courses-block {
+        margin: 20px;
+    }
+
+    .footer {
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+
+    .footer-list h3 {
+        font-size: 15px;
+        padding-top: 29px;
+        padding-bottom: 26px;
+    }
+
+    .footer-list a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .footer-icon1 {
+        font-size: 18px;
+        padding: 20px 10px;
+    }
+    .footer img {
+        width: 180px;
+    }
+}
+@media (max-width: 400px){
+    .hero-img img {
+        width: 315px;
+    }
+    .hero-img1 img {
+        width: 120px;
+        height: 200px;
+    }
+    .hero-img1 {
+        left: 200px;
+    }
+    .space-img img {
+        width: 239px;
+        height: 250px;
+    }
+    .space-img1 img {
+        width: 147px;
+        height: 248px;
+    }
+    .space-img1 {
+        top: 122px;
+        right: -5px;
+    }
+    .space-img {
+        left: -50px;
+    }
+    .step-img img {
+        width: 303px;
+    }
+    .step-img2 img {
+        width: 303px;
+    }
+    .swiper {
+        width: 191px;
+        height: 278px;
+    }
+    .link-title {
+        left: -6px;
+    }
+    .slider-prev {
+        margin-left: 68px;
+    }
+    .offer img {
+        width: 310px;
+    }
+    .teach {
+        width: 363px;
+    }
+    .create h2 {
+        font-size: 16px;
+    }
+    .create p {
+        font-size: 13px;
+    }
+    .footer img {
+        padding-top: 60px;
+    }
+}
+@media (max-width: 320px){
+    .slider-prev {
+        margin-left: 30px;
+    }
+    .teach {
+        width: 291px;
+    }
+    .teach p {
+        font-size: 10px;
+    }
+    .teach button {
+        width: 179px;
+        font-size: 12px;
+        padding-left: 19px;
+    }
+    .courses-title-gen1 img {
+        height: 286px;
+        width: 133px;
+        left: -1px;
+    }
+    .courses-title-gen1 h4 {
+        left: 8px;
+    }
+    .courses-title-gen1 p {
+        left: 31px;
+    }
+    .courses-icon {
+        left: 10px;
+    }
+    .courses-block{
+        box-shadow: none;
+    }
+}
